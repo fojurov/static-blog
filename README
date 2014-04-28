@@ -1,0 +1,1 @@
+This blog uses a static site generator written in Flask/Python to transform markdown files directly into html
